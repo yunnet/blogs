@@ -1,0 +1,35 @@
+2018/09/30 09:08:31.645 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2018/09/30 09:11:30.783 [C] [asm_amd64.s:573]  the request url is  /login
+2018/09/30 09:11:30.783 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/login.tpl
+2018/09/30 09:11:30.783 [C] [asm_amd64.s:573]  E:/Go/src/runtime/asm_amd64.s:573
+2018/09/30 09:11:30.783 [C] [asm_amd64.s:573]  E:/Go/src/runtime/panic.go:502
+2018/09/30 09:11:30.783 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/template.go:73
+2018/09/30 09:11:30.783 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/controller.go:264
+2018/09/30 09:11:30.784 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/controller.go:215
+2018/09/30 09:11:30.784 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/controller.go:195
+2018/09/30 09:11:30.784 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/router.go:859
+2018/09/30 09:11:30.784 [C] [asm_amd64.s:573]  E:/Go/src/net/http/server.go:2694
+2018/09/30 09:11:30.784 [C] [asm_amd64.s:573]  E:/Go/src/net/http/server.go:1830
+2018/09/30 09:11:30.784 [C] [asm_amd64.s:573]  E:/Go/src/runtime/asm_amd64.s:2361
+2018/09/30 09:11:30.785 [server.go:2921]  [HTTP] http: multiple response.WriteHeader calls
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  the request url is  /login
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/login.tpl
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/Go/src/runtime/asm_amd64.s:573
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/Go/src/runtime/panic.go:502
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/template.go:73
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/controller.go:264
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/controller.go:215
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/controller.go:195
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/go-src/src/github.com/astaxie/beego/router.go:859
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/Go/src/net/http/server.go:2694
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/Go/src/net/http/server.go:1830
+2018/09/30 09:12:44.677 [C] [asm_amd64.s:573]  E:/Go/src/runtime/asm_amd64.s:2361
+2018/09/30 09:12:44.678 [server.go:2921]  [HTTP] http: multiple response.WriteHeader calls
+2018/09/30 09:32:45.596 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2018/09/30 09:47:20.292 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2018/09/30 09:50:17.570 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2018/09/30 10:08:19.222 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2018/09/30 10:09:10.937 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2018/09/30 10:16:39.293 [I] [log.go:16]  [addblog:  title:werwqerq content:qwerqwerqwer] 
+2018/09/30 10:23:19.782 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2018/09/30 10:30:34.870 [I] [asm_amd64.s:2361]  http server Running on http://:8080
